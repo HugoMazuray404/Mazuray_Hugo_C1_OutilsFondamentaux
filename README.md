@@ -12,6 +12,7 @@ Cependant, ce sujet initial ne permettait pas d'aborder suffisamment toutes les 
 L'objectif n'est donc pas uniquement de trouver un parcours court, mais aussi de comprendre et de comparer les différentes méthodes mathématiques et informatiques utilisées pour résoudre ce problème.
 
 ## Arboréssance
+'''
 ├── Tp
 │   ├── Tp1
 │   ├── Tp2
@@ -20,9 +21,10 @@ L'objectif n'est donc pas uniquement de trouver un parcours court, mais aussi de
 │   ├── Tp5
 │   └── Tp6
 └── projet
-    ├── Sujet_Voyageur_remanié.pdf
+    ├── Sujet_Voyageur_Remanié.pdf
     ├── Villes.txt
-    └── Algo_Voyageur_remanié.py
+    └── Algo_Voyageur_Remanié.py
+'''
 
 ## Fonctionnement du projet
 
@@ -59,7 +61,7 @@ Certaines parties du programme correspondent à des fonctions indépendantes. Le
 
 ## Résultats et observations attendus
 
-Ce projet doit permettre d'observer plusieurs phénomènes.
+Ce projet doit permettre d'observer plusieurs choses:
 
 ### 1. La difficulté du problème
 
