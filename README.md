@@ -103,4 +103,4 @@ Les méthodes d'optimisation utilisées ne garantissent pas nécessairement de t
 
 ## Utilisation de l'intelligence artificielle
 
-Une intelligence artificielle a été utilisée comme aide à la réflexion et à la rédaction, notamment pour identifier les notions mathématiques insuffisamment abordées dans le sujet initial, proposer des questions complémentaire.
+Une intelligence artificielle a été utilisée comme aide à la réflexion et à la rédaction pour identifier les notions mathématiques insuffisamment abordées dans le sujet initial, proposer des questions complémentaire. Elle a également été utilisée pour corriger du code ou clarifier des consignes incomprises.
