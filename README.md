@@ -12,19 +12,18 @@ Cependant, ce sujet initial ne permettait pas d'aborder suffisamment toutes les 
 L'objectif n'est donc pas uniquement de trouver un parcours court, mais aussi de comprendre et de comparer les différentes méthodes mathématiques et informatiques utilisées pour résoudre ce problème.
 
 ## Arboréssance
-'''
-├── Tp
-│   ├── Tp1
-│   ├── Tp2
-│   ├── Tp3
-│   ├── Tp4
-│   ├── Tp5
-│   └── Tp6
-└── projet
-    ├── Sujet_Voyageur_Remanié.pdf
-    ├── Villes.txt
-    └── Algo_Voyageur_Remanié.py
-'''
+```text
+
+└──TPpython/
+│    ├── TP1
+│    ├── TP2
+│    ├── TP3
+│    ├── TP4
+│    ├── TP5
+│    └── TP6
+└──Projet/
+     └── CMartin_TP
+```
 
 ## Fonctionnement du projet
 
