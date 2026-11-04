@@ -11,6 +11,19 @@ Cependant, ce sujet initial ne permettait pas d'aborder suffisamment toutes les 
 
 L'objectif n'est donc pas uniquement de trouver un parcours court, mais aussi de comprendre et de comparer les différentes méthodes mathématiques et informatiques utilisées pour résoudre ce problème.
 
+## Arboréssance
+├── Tp
+│   ├── Tp1
+│   ├── Tp2
+│   ├── Tp3
+│   ├── Tp4
+│   ├── Tp5
+│   └── Tp6
+└── projet
+    ├── Sujet_Voyageur_remanié.pdf
+    ├── Villes.txt
+    └── Algo_Voyageur_remanié.py
+
 ## Fonctionnement du projet
 
 Il permet notamment, selon les parties :
@@ -40,7 +53,7 @@ Pour exécuter le programme, il faut disposer de :
 
 1. Télécharger les fichiers du projet.
 2. Placer le programme Python et le fichier `Villes.txt` dans le même dossier.
-3. Exécuter le programme Python depuis ce dossier :
+3. Exécuter le programme Python depuis ce dossier
 
 Certaines parties du programme correspondent à des fonctions indépendantes. Leur exécution peut nécessiter de les appeler explicitement dans le code, avec les paramètres souhaités.
 
