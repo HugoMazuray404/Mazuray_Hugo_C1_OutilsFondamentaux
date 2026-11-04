@@ -14,15 +14,18 @@ L'objectif n'est donc pas uniquement de trouver un parcours court, mais aussi de
 ## Arboréssance
 ```text
 
-└──TPpython/
+└──README.md
+└──TP
 │    ├── TP1
 │    ├── TP2
 │    ├── TP3
 │    ├── TP4
 │    ├── TP5
 │    └── TP6
-└──Projet/
-     └── CMartin_TP
+└──Projet
+     ├── Algo_Voyageur_Remanié.py
+     ├── Sujet_Voyageur_Remanié.pdf
+     └── Villes.txt
 ```
 
 ## Fonctionnement du projet
